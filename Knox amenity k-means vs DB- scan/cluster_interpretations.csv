@@ -1,0 +1,6 @@
+Cluster,Count,Avg Income,Avg Spending,Segment
+0,81,$55k,50,"Average Income, Average Spending (Standard)"
+1,39,$87k,82,"High Income, High Spending (Target Customers)"
+2,22,$26k,79,"Low Income, High Spending (Careless Spenders)"
+3,35,$88k,17,"High Income, Low Spending (Savers)"
+4,23,$26k,21,"Low Income, Low Spending (Careful Spenders)"

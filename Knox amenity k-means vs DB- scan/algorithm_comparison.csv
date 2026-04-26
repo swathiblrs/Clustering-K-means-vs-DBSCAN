@@ -1,0 +1,9 @@
+Metric,K-Means,DBSCAN
+Number of Clusters,5,8
+Noise Points,0 (assigns all),23 (11.5%)
+Silhouette Score,0.5547,0.5197
+Calinski-Harabasz Index,248.65,185.80
+Davies-Bouldin Index,0.5722,0.6103
+Requires K?,Yes,"No (uses eps, min_samples)"
+Handles Outliers?,No,Yes
+Cluster Shape,Spherical/Convex,Arbitrary
